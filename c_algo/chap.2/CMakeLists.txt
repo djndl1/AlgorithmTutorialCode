@@ -1,0 +1,3 @@
+cmake_minimum_required(VERSION 3.12)
+
+add_executable(maximum_subsequence_sum maximum_subsequence_sum.c ../lib/xmalloc.c)
